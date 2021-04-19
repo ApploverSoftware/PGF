@@ -2,7 +2,7 @@
 path: "/core/qa"
 title: "🕵️ Quality Assurance"
 sidebarTitle: "🕵️ Quality Assurance"
-sidebarGroup: "core"
+sidebarGroup: "production"
 yaml: true
 levels: 5
 homepage: true

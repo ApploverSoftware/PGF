@@ -1,8 +1,8 @@
 ---
-path: "/core/ios"
-title: "🍏 iOS"
-sidebarTitle: "🍏 iOS"
-sidebarGroup: "core"
+path: "/core/backend"
+title: "🛠️ Backend"
+sidebarTitle: "🛠️ Backend"
+sidebarGroup: "production"
 yaml: true
 levels: 5
 homepage: true
@@ -42,7 +42,7 @@ topics:
         exampleCriteria:
           - criteria: "Has basic knowledge of parts of the application and their responsibilities"
             examples:
-              - "having a project that comprises of 4 separate applications the developer knows scope and responsibilities of each of these"
+              -  "having a project that comprises of 4 separate applications the developer knows scope and responsibilities of each of these"
           - criteria: "Knows basic security practices and is able to find ones"
             examples:
               - "uses libraries supporting security in the project, takes care of proper authentication and authorization within the project"
@@ -126,71 +126,90 @@ topics:
           - "Contributes to project’s architecture and conventions e.g. application’s architecture, git flow, deploy tasks etc."
           - "Understands the business so well that is able to advise in business terms e.g. from regular user’s perspective"
           - "Mastered the act of translating client requirements/visions into concrete web features"
-          - "Proactively prepares the codebase to significant platform changes. Is the pioneer whenever some core features are deprecated in favour of new solutions"
+          - "Proactively prepares the codebase to significant platform changes. Is the pioneer whenever some core features are deprecated in favour of new solutions."
         exampleCriteria:
           - criteria: "Takes part in definition of company-wide standards"
             examples:
               - "coordinates a company-wide switch to a new approach/framework/architecture"
               - "improves and maintains company’s infrastructure and architecture in their core technology e.g. project architecture templates, CI scripts etc."
   - name: "mastery"
-    title: "🍏 Mastery"
+    title: "🛠️ Mastery"
     content:
       - level: 1
         criteria:
-          - "Creates simple views using UIKit library"
-          - "Creates and manages Assets"
-          - "Creates and uses translation files"
-          - "Creates simple animations"
-          - "Has basic knowledge of Swift language and is able to implement readable and clean code in Swift"
-          - "Uses dependency management tools like Switch Package Manager, CococaPods"
-          - "Understands basic concepts of MVC, MVP and MVVM architectures"
+          - "Has basic knowledge of leading/selected BE language and framework e.g. knows most common language’s/framework’s functions and API"
+          - "Has basic knowledge of one database and its API e.g. can write simple SELECT, INSERT queries etc."
+          - "Has basic knowledge of leading testing framework (e.g. RSpec, MiniTest)"
+          - "Modifies existing tests along with changing implementation"
+          - "Adds new tests along with new implementation"
+          - "Knows fundamentals of at least one API design pattern e.g. REST"
+          - "Fixes simple bugs that encompass a single method and are relatively easy to fix"
+          - "Knows basics of using the terminal e.g. basic commands like grep, curl, tail, cd, mkdir, kill"
+          - "Writes code according to established conventions e.g. common Ruby Style Guide rules"
+          - "Knows Postman or similar API testing tool"
       - level: 2
         criteria:
-          - "Creates complex views using UIKit library and autolayout"
-          - "Creates new views using UIKit library"
-          - "Knows and uses the basics of Xcode Instruments in order to detect memory leaks"
-          - "Handles and configures applications like push notifications"
-          - "Knows what project’s Scheme are and is able to use them"
-          - "Has good knowledge of Swift language and is able to implement readable and clean code in Swift"
-          - "Understands application’s lifecycle"
-          - "Understands basics of concurrent processing in iOS applications"
-          - "Knows the basics of various databases and is able to use them based on available documentation"
-          - "Uses Xcode environment with ease and is able to independently solve small configuration issues for the project they are working at"
-          - "Understands the paradigm of reactive programming especially in context of RxSwift libraries"
+          - "Has good knowledge of the libraries used in project and their API e.g. knows when and how to apply given functions based on existing codebase"
+          - "Has good knowledge of one database and its API e.g. is able to write complex queries, use transactions etc."
+          - "Always covers implemented/modified features with a test suite unless the situation dictates otherwise"
+          - "Modifies existing database schema according to business requirements"
+          - "Knows and uses documentation framework e.g. Swagger, RSpec API docs"
+          - "Has basic knowledge of the server, is able to safely use the server e.g. enter the server, browse the logs, browse files in the server"
+          - "Knows how to use 3rd party integrations that are already implemented in the project e.g. Mailgun, Twilio, S3, Cloudinary, OAuth"
+        exampleCriteria:
+          - criteria: "Has good knowledge of leading/selected BE language and framework"
+            examples:
+              - "is able to name a few ways to solve a given issue and is able to make a decision about selected solution with assistance of other developers"
+          - criteria: "Keeps application secure according to basic conventions"
+            examples:
+              - "sensitive data is stored securely in database, access is restricted in expected manner"
       - level: 3
         criteria:
-          - "Understands how certification of iOS application works and is able to configure project according to given requirements"
-          - "Is able to spot issues in existing CI/CD architecture and report them to person in charge"
-          - "Has in-depth knowledge of Xcode environment"
-          - "Creates advances animations using native solutions like autolayout as well as external tools/libraries like Lottie"
-          - "Has in-depth knowledge of application’s lifecycle and its states"
-          - "Is able to spot potential risks of particular decisions at early stage of project’s planning and is able to suggest alternative solutions according to business requirements"
-          - "Develops existing application’s architecture and introduces new solutions and improvements based on this architecture"
-          - "Has in-depth knowledge of Swift language"
-          - "Implements the paradigm of reactive programming with ease, especially in context of RxSwift libraries"
-          - "Is able to independently maintain existing projects"
-          - "Extracts and builds complex components based on available documentation. Extracts these into separate modules that can be reused within multiple projects"
+          - "Knows various databases and their use cases e.g. knows the difference between RDBMS and NoSQL databases"
+          - "Knows and applies theorethical database knowledge e.g. ACID, N+1 problems, locks, indexes, database normalization"
+          - "Is able to map a domain model to database schema"
+          - "Keeps application performant e.g. avoids N+1 queries, moves asynchronous pieces of code to background jobs"
+          - "Fixes bugs involving multiple classes/services and can safely investigate production issues"
+          - "Writes automated unit and feature test"
+          - "Is able to setup the server and install all necessary tools for the application to be up and running using internal tools e.g. setup the server with internal script"
+          - "Follows company’s infrastructure and architecture and is able to implement solutions according to them e.g. can set up a project or a server using company’s architecture/template"
+        exampleCriteria:
+          - criteria: "Has in-depth knowledge of leading/selected BE language and framework"
+            examples:
+              - "knows language API from scratch thus is able to choose the most elegant and optimal way to solve a given problem"
+          - criteria: "Is capable of evaluating whether it’s worth to make use of 3rd party code e.g. libraries"
+            examples:
+              - is able to provide decent explanation for not using particular library e.g. 3rd party code might be not supported anymore or the feature can be easily written from scratch"
+          - criteria: "Knows various approaches to authentication and is able to implement at least one of them"
+            examples:
+              - "cookie-based auth, token-based auth, JWT auth etc."
+          - criteria: "Is able to integrate with 3rd party integration services"
+            examples:
+              - "using existing adapters to integrate with Mailgun, Twilio, S3, Cloudinary, OAuth"
+          - criteria: "Has good knowledge of the server, is able to safely use the server"
+            examples:
+              - "upload data to the server, modify files, access database, configure and run services, use cron etc."
+          - criteria: "Keeps all running services secure"
+            examples:
+              - "all private accesses are restricted"
+              - "doesn’t use 3rd party code with known vulnerabilities"
+              - "is aware of common exploits and protects codebase from these"
       - level: 4
         criteria:
-          - "Understands how CI/CD works in various configurations, is able to implement CI/CD and maintain it within existing infrastructure at Applover or at client’s side"
-          - "Is able to independently lead projects beginning with planning phase, through cooperation with client and ending with deployment of ready product to production"
-          - "Understands the difference between Android and iOS platform what makes them a good advisor in terms of selection of common tools in projects they are working at"
-          - "Xcode is no black box for them - they know where to look for particular options/features and how to work with them. Is able to solve every configuration issue and implement their own solutions within projects at Applover"
-          - "Has basic knowledge within hybrid solutions, such as Flutter, React Native"
-          - "Creates, maintains and develops architecture within projects at Applover"
-        exampleCriteria:
-          - criteria: "Is an expert within their domain"
-            examples:
-              - "their knowledge and experience is extremely valuable at workshops with client"
-              - "is able to quickly and accurately spot potential issues and suggest solutions at early stage of project planning"
-              - "is a go-to person who will always provide co-workers with a piece of advice and solutions to given issues"
+          - "Is able to find themselves in any type of project and on any phase of its development"
+          - "Deploys basic services to staging and production environments e.g. deploys Sidekiq, Redis"
+          - "Is able to setup the server and install all necessary tools for the application to be up and running independently from scratch"
+          - "Considers metrics and non-functional requirements when designing the system"
+          - "Implements performance improvements to existing systems"
+          - "Is able to implement various ways of communication with the client e.g. REST API and web sockets"
+          - "Knows and applies various architectural patterns according to requirements e.g. microservices, CQRS, Event Sourcing"
+          - "Is capable of setting up and integrate 3rd party services into the project e.g. Elasticsearch search engine, RabbitMQ message broker"
       - level: 5
         criteria:
-          - "Has broad experience at working with various CI/CD approaches for such platforms as iOS and Android platforms"
-          - "Has commercial experience at working with hybrid solutions, such as Flutter, React Native"
-          - "In case of any problem/issue they are a go-to person to resolve these. Has broad experience at implementation of iOS applications."
-          - "Has knowledge and experience at working with Android platform which allows them to communicate with peers from various departments in the team in order to make project-related decisions"
-
+          - "Is capable of building the whole project’s architecture based on business requirements, functional and non-functional e.g. knows scaling concepts and applies them accordingly"
+          - "Is experienced with shell enough to write their own scripts and automate processes/their own work"
+          - "Works with various technologies/frameworks/platforms e.g. is able to write a piece of logic in both RoR and NodeJS"
+          - "Knows caching concepts and is able to apply given one according to requirements"
 ---
 ### About our core paths
 Core paths are directly related to professions we employ at Applover. Why exactly are these called **Core**? Because they represent how you can progress at your profession at Applover. Each core path covers all the things we're looking for from Applover's team members.

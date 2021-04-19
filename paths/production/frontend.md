@@ -2,7 +2,7 @@
 path: "/core/frontend"
 title: "🌐 Frontend"
 sidebarTitle: "🌐 Frontend"
-sidebarGroup: "core"
+sidebarGroup: "production"
 yaml: true
 levels: 5
 homepage: true

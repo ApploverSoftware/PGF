@@ -2,7 +2,7 @@
 path: "/core/design"
 title: "🖼️ Design"
 sidebarTitle: "🖼️ Design"
-sidebarGroup: "core"
+sidebarGroup: "production"
 yaml: true
 levels: 5
 homepage: true

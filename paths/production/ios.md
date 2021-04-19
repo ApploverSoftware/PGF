@@ -1,8 +1,8 @@
 ---
-path: "/core/wordpress"
-title: "🇼 Wordpress"
-sidebarTitle: "🇼 Wordpress"
-sidebarGroup: "core"
+path: "/core/ios"
+title: "🍏 iOS"
+sidebarTitle: "🍏 iOS"
+sidebarGroup: "production"
 yaml: true
 levels: 5
 homepage: true
@@ -42,7 +42,7 @@ topics:
         exampleCriteria:
           - criteria: "Has basic knowledge of parts of the application and their responsibilities"
             examples:
-              -  "having a project that comprises of 4 separate applications the developer knows scope and responsibilities of each of these"
+              - "having a project that comprises of 4 separate applications the developer knows scope and responsibilities of each of these"
           - criteria: "Knows basic security practices and is able to find ones"
             examples:
               - "uses libraries supporting security in the project, takes care of proper authentication and authorization within the project"
@@ -126,91 +126,70 @@ topics:
           - "Contributes to project’s architecture and conventions e.g. application’s architecture, git flow, deploy tasks etc."
           - "Understands the business so well that is able to advise in business terms e.g. from regular user’s perspective"
           - "Mastered the act of translating client requirements/visions into concrete web features"
-          - "Proactively prepares the codebase to significant platform changes. Is the pioneer whenever some core features are deprecated in favour of new solutions."
+          - "Proactively prepares the codebase to significant platform changes. Is the pioneer whenever some core features are deprecated in favour of new solutions"
         exampleCriteria:
           - criteria: "Takes part in definition of company-wide standards"
             examples:
               - "coordinates a company-wide switch to a new approach/framework/architecture"
               - "improves and maintains company’s infrastructure and architecture in their core technology e.g. project architecture templates, CI scripts etc."
   - name: "mastery"
-    title: "🛠️ Mastery"
+    title: "🍏 Mastery"
     content:
       - level: 1
         criteria:
-          - "Creates simple layouts that reflect the designed screens (HTML, CSS, JavaScript)"
-          - "Creates forms with validation"
-          - "Creates responsive layouts (RWD)"
-          - "Has good knowledge of leading CSS Preprocessor"
-          - "Knows fundamentals of Semantic HTML i SEO"
-          - "Knows fundamentals of leading UI Framework (Grid)"
-          - "Knows the assumptions of of leading CSS Metodologies"
-          - "Knows the assumptions of 'Mobile first'"
-          - "Updates existing layouts in an already implemented styles methodology"
-          - "Knows fundamentals of WEB Performance optimization."
-          - "Checks the correctness of displaying layouts on popular browsers and mobile devices"
-        exampleCriteria:
-          - criteria: "Knows fundamentals of WordPress Theme:"
-            examples:
-              - "Local environment setting"
-              - "Simple template files"
-              - "Combining templates with created pages"
-              - "Installing plugins"
+          - "Creates simple views using UIKit library"
+          - "Creates and manages Assets"
+          - "Creates and uses translation files"
+          - "Creates simple animations"
+          - "Has basic knowledge of Swift language and is able to implement readable and clean code in Swift"
+          - "Uses dependency management tools like Switch Package Manager, CococaPods"
+          - "Understands basic concepts of MVC, MVP and MVVM architectures"
       - level: 2
         criteria:
-          - "Codes more advanced layouts"
-          - "Builds an entire website with a simple architecture using leading guideline"
-          - "Knows fundamentals of UI and UX (readability, cooperating with a designer)"
-          - "Has good knowledge of leading UI Framework"
-          - "Has good knowledge of leading Metodologies"
-          - "Has good knowledge of Mail template standards"
-          - "Has good knowledge of WEB Performance optimization and tools for it."
-          - "Debugs code using leading tools"
-          - "Contributes to the release process"
-          - "Be up to date with Front-End standards"
-          - "Estimates small tasks"
-        exampleCriteria:
-          - criteria: "Has good knowledge of WordPress:"
-            examples:
-              - "Basic knowledge of PHP"
-              - "Advanced template files"
-              - "Using WP Codex"
-              - "Leading plugins"
-              - "Database migration"
+          - "Creates complex views using UIKit library and autolayout"
+          - "Creates new views using UIKit library"
+          - "Knows and uses the basics of Xcode Instruments in order to detect memory leaks"
+          - "Handles and configures applications like push notifications"
+          - "Knows what project’s Scheme are and is able to use them"
+          - "Has good knowledge of Swift language and is able to implement readable and clean code in Swift"
+          - "Understands application’s lifecycle"
+          - "Understands basics of concurrent processing in iOS applications"
+          - "Knows the basics of various databases and is able to use them based on available documentation"
+          - "Uses Xcode environment with ease and is able to independently solve small configuration issues for the project they are working at"
+          - "Understands the paradigm of reactive programming especially in context of RxSwift libraries"
       - level: 3
         criteria:
-          - "Builds an entire website with a advanced architecture"
-          - "Has basic knowledge of SQL"
-          - "Knows fundamentals of PWA (Progressive Web App)"
-          - "Has basic knowledge of the most popular CSS Methodologies"
-          - "Has basic knowledge of AMP"
-          - "Chooses the appropriate methodology for the project"
-          - "Takes time to analyse performance of the website and fixes any found issues"
-          - "Estimates difficult tasks and fixing bugs"
-          - "Independently conducts the release process"
-          - "Has basic knowledge about other UI Frameworks"
-        exampleCriteria:
-          - criteria: "Has in-depth knowledge of WordPress"
-            examples:
-              - "Good knowledge of PHP"
-              - "In-depth knowledge of template system"
-              - "Multisite"
-              - "Adds custom fields and Custom Post Type without plugins"
-              - "Tries to independently expand the functionalities WordPress not necessarily using plugins"
-              - "Works with Webpack/Gulp"
+          - "Understands how certification of iOS application works and is able to configure project according to given requirements"
+          - "Is able to spot issues in existing CI/CD architecture and report them to person in charge"
+          - "Has in-depth knowledge of Xcode environment"
+          - "Creates advances animations using native solutions like autolayout as well as external tools/libraries like Lottie"
+          - "Has in-depth knowledge of application’s lifecycle and its states"
+          - "Is able to spot potential risks of particular decisions at early stage of project’s planning and is able to suggest alternative solutions according to business requirements"
+          - "Develops existing application’s architecture and introduces new solutions and improvements based on this architecture"
+          - "Has in-depth knowledge of Swift language"
+          - "Implements the paradigm of reactive programming with ease, especially in context of RxSwift libraries"
+          - "Is able to independently maintain existing projects"
+          - "Extracts and builds complex components based on available documentation. Extracts these into separate modules that can be reused within multiple projects"
       - level: 4
         criteria:
-          - "Has good knowledge of PHP"
-          - "Has good knowledge of SQL"
-          - "Has good knowledge of AMP"
-          - "Creates Custom Endpoints for the WordPress REST API"
-          - "Creates Custom Plugins for WordPress"
-          - "Creates and developing the Starter Theme"
-          - "Has good knowledge of the additional leading UI Framework  "
-          - "Has good knowledge of PWA (Progressive Web App)"
+          - "Understands how CI/CD works in various configurations, is able to implement CI/CD and maintain it within existing infrastructure at Applover or at client’s side"
+          - "Is able to independently lead projects beginning with planning phase, through cooperation with client and ending with deployment of ready product to production"
+          - "Understands the difference between Android and iOS platform what makes them a good advisor in terms of selection of common tools in projects they are working at"
+          - "Xcode is no black box for them - they know where to look for particular options/features and how to work with them. Is able to solve every configuration issue and implement their own solutions within projects at Applover"
+          - "Has basic knowledge within hybrid solutions, such as Flutter, React Native"
+          - "Creates, maintains and develops architecture within projects at Applover"
+        exampleCriteria:
+          - criteria: "Is an expert within their domain"
+            examples:
+              - "their knowledge and experience is extremely valuable at workshops with client"
+              - "is able to quickly and accurately spot potential issues and suggest solutions at early stage of project planning"
+              - "is a go-to person who will always provide co-workers with a piece of advice and solutions to given issues"
       - level: 5
         criteria:
-          - "Has in-depth knowledge of PHP"
-          - "Easily can switch between leadings UI Frameworks"
+          - "Has broad experience at working with various CI/CD approaches for such platforms as iOS and Android platforms"
+          - "Has commercial experience at working with hybrid solutions, such as Flutter, React Native"
+          - "In case of any problem/issue they are a go-to person to resolve these. Has broad experience at implementation of iOS applications."
+          - "Has knowledge and experience at working with Android platform which allows them to communicate with peers from various departments in the team in order to make project-related decisions"
 
 ---
 ### About our core paths
