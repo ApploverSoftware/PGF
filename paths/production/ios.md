@@ -1,5 +1,5 @@
 ---
-path: "/core/ios"
+path: "/production/ios"
 title: "🍏 iOS"
 sidebarTitle: "🍏 iOS"
 sidebarGroup: "production"

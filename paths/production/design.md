@@ -1,5 +1,5 @@
 ---
-path: "/core/design"
+path: "/production/design"
 title: "🖼️ Design"
 sidebarTitle: "🖼️ Design"
 sidebarGroup: "production"

@@ -1,5 +1,5 @@
 ---
-path: "/core/wordpress"
+path: "/production/wordpress"
 title: "🇼 Wordpress"
 sidebarTitle: "🇼 Wordpress"
 sidebarGroup: "production"

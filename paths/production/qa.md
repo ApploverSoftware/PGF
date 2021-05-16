@@ -1,5 +1,5 @@
 ---
-path: "/core/qa"
+path: "/production/qa"
 title: "🕵️ Quality Assurance"
 sidebarTitle: "🕵️ Quality Assurance"
 sidebarGroup: "production"

@@ -1,5 +1,5 @@
 ---
-path: "/core/android"
+path: "/production/android"
 title: "🤖 Android"
 sidebarTitle: "🤖 Android"
 sidebarGroup: "production"

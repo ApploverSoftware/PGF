@@ -1,5 +1,5 @@
 ---
-path: "/core/frontend"
+path: "/production/frontend"
 title: "🌐 Frontend"
 sidebarTitle: "🌐 Frontend"
 sidebarGroup: "production"
