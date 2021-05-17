@@ -1,8 +1,8 @@
 ---
-path: "/hr/contracts"
+path: "/people-and-culture/contracts"
 title: "📝 Contracts"
 sidebarTitle: "📝 Contracts"
-sidebarGroup: "hr"
+sidebarGroup: "People and Culture"
 yaml: true
 levels: 3
 homepage: true

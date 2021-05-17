@@ -1,8 +1,8 @@
 ---
-path: "/hr/people-and-operations"
+path: "/people-and-culture/people-and-operations"
 title: "💆 People and operations"
 sidebarTitle: "💆 People and operations"
-sidebarGroup: "hr"
+sidebarGroup: "People and Culture"
 yaml: true
 levels: 4
 homepage: true

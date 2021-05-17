@@ -1,8 +1,8 @@
 ---
-path: "/hr/talent-and-development"
+path: "/people-and-culture/talent-and-development"
 title: "🎊 Talent and development"
 sidebarTitle: "🎊 Talent and development"
-sidebarGroup: "hr"
+sidebarGroup: "People and Culture"
 yaml: true
 levels: 4
 homepage: true

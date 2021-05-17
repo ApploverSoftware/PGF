@@ -1,8 +1,8 @@
 ---
-path: "/hr/culture"
+path: "/people-and-culture/culture"
 title: "🎎 Culture"
 sidebarTitle: "🎎 Culture"
-sidebarGroup: "hr"
+sidebarGroup: "People and Culture"
 yaml: true
 levels: 4
 homepage: true
