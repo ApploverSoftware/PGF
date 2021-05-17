@@ -1,20 +1,20 @@
 ---
-path: "/marketing/eb"
-title: "🧬 EB"
-sidebarTitle: "🧬 EB"
+path: "/marketing/employer-branding"
+title: "🧬 Employer Branding"
+sidebarTitle: "🧬 Employer Branding"
 sidebarGroup: "Marketing"
 yaml: true
 levels: 3
 homepage: true
 topics:
-  - name: "EB"
-    title: "EB"
+  - name: "Employer Branding"
+    title: "Employer Branding"
     content:
       - level: 1
         criteria:
           - Asks for the most effective solutions
-          - Carries out basic EB activities with the help of others
-          - Attentive to employees' needs; listens to them and can initiate action related to their needs and EB
+          - Carries out basic Employer Branding activities with the help of others
+          - Attentive to employees' needs; listens to them and can initiate action related to their needs and Employer Branding
       - level: 2
         criteria:
           - Can ask the right questions, seeks knowledge
@@ -22,7 +22,7 @@ topics:
       - level: 3
         criteria:
           - Is able to ask the right questions, seeks knowledge and knows where to find it
-          - Listens to them and can initiate action related to their needs and EB; independently carries out basic actions
+          - Listens to them and can initiate action related to their needs and Employer Branding; independently carries out basic actions
           - Attention to employee needs; understanding and meeting business objectives
 
 ---

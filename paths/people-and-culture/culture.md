@@ -55,8 +55,8 @@ topics:
       - level: 4
         criteria:
           - Understand and manage benefits in the context of employee motivation and organizational culture
-  - name: "EB research"
-    title: "EB research"
+  - name: "Employer Branding research"
+    title: "Employer Branding research"
     content:
       - level: 1
         criteria:
@@ -69,12 +69,12 @@ topics:
           - Organizing in conjunction with the marketing department
       - level: 3
         criteria:
-          - Creating EB strategies, focus studies, plans
+          - Creating Employer Branding strategies, focus studies, plans
           - Iinitiate actions
           - Capture organizational changes that need to be addressed in communications
       - level: 4
         criteria:
-          - Connection between internal EB and external EB, knowledge sharing with marketing
+          - Connection between internal Employer Branding and external Employer Branding, knowledge sharing with marketing
           - Helping with implementation, suggestions for change
           - Gives business input to ongoing research.
   - name: "Communication"

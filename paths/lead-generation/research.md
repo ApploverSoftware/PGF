@@ -22,7 +22,7 @@ topics:
           - Your own suggestions for copy, research materials useful for copy
       - level: 2
         criteria:
-          - Writing copy based on consclusions from previous copy
+          - Writing copy based on consclusions from previous campaingns
           - Adjusting copy to recipient, copy personalisation
   - name: "Creating a database"
     title: "Creating a database"
@@ -31,6 +31,7 @@ topics:
         criteria:
           - Collecting data to create statistics and reports
           - Creating Excel sheets for a database for a specific campaign on LinkedIn
+          - Conducting an executive research for premium campaigns
       - level: 2
         criteria:
           - Creation of Excel sheets under the database for a specific campaign (LinkedIn and mailing)
