@@ -42,7 +42,7 @@ topics:
 
 ---
 ### About our core paths
-Core paths are directly related to professions we employ at Applover. Why exactly are these called **Core**? Because they represent how you can progress at your profession at Applover. Each core path covers all the things we're looking for from Applover's team members.
+Core paths are directly related to professions we employ at Applover. Why exactly are these called **core**? Because they represent how you can progress at your profession at Applover. Each core path covers all the things we're looking for from Applover's team members.
 
 ### How does it work?
 Each development path is divided into several milestones to be achieved along with your progression. Particular milestone represents a set of exemplary behaviors and skills that need to be mastered to accomplish the milestone.

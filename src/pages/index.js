@@ -47,8 +47,8 @@ export default class Index extends React.Component<Props> {
             </DescriptionText>
             <Subtitle>How does it work?</Subtitle>
             <DescriptionText>
-              Take a look at the sidebar/menu - you will find there 9 paths
-              of values that we embrace at Applover and possible paths in your
+              Take a look at the sidebar/menu - you will find there 8 values
+              that we embrace at Applover and possible paths in your
               career development. Each path contains exemplary behaviors
               within each milestone for it. While most of these paths are
               common and relevant to all Applover&apos;s team members, there are
@@ -62,9 +62,10 @@ export default class Index extends React.Component<Props> {
               time along with your progression.
             </DescriptionText>
             <DescriptionText>
-              Below you will find a group of <b>Core</b> paths which are
-              directly related to professions we employ at Applover. With PGF
-              we want to support both horizontal and vertical development so
+              Below our values you will find groups of <b>core</b> paths which are
+              directly related to professions we employ at Applover (production team paths,
+              marketing team paths, HR team paths etc.).
+              With PGF we want to support both horizontal and vertical development so
               that you can focus either on becoming a rockstar in your domain or
               growing into a T-shaped person with a range of various skills.
             </DescriptionText>
