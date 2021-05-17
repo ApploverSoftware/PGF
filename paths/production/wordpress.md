@@ -2,7 +2,7 @@
 path: "/production/wordpress"
 title: "🇼 Wordpress"
 sidebarTitle: "🇼 Wordpress"
-sidebarGroup: "production"
+sidebarGroup: "Production"
 yaml: true
 levels: 5
 homepage: true

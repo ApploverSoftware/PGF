@@ -2,7 +2,7 @@
 path: "/production/frontend"
 title: "🌐 Frontend"
 sidebarTitle: "🌐 Frontend"
-sidebarGroup: "production"
+sidebarGroup: "Production"
 yaml: true
 levels: 5
 homepage: true

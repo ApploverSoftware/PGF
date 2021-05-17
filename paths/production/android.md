@@ -2,7 +2,7 @@
 path: "/production/android"
 title: "🤖 Android"
 sidebarTitle: "🤖 Android"
-sidebarGroup: "production"
+sidebarGroup: "Production"
 yaml: true
 levels: 5
 homepage: true

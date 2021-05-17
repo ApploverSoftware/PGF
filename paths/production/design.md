@@ -2,7 +2,7 @@
 path: "/production/design"
 title: "🖼️ Design"
 sidebarTitle: "🖼️ Design"
-sidebarGroup: "production"
+sidebarGroup: "Production"
 yaml: true
 levels: 5
 homepage: true

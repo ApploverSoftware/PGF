@@ -2,7 +2,7 @@
 path: "/production/ios"
 title: "🍏 iOS"
 sidebarTitle: "🍏 iOS"
-sidebarGroup: "production"
+sidebarGroup: "Production"
 yaml: true
 levels: 5
 homepage: true
