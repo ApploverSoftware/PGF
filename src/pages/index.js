@@ -74,7 +74,7 @@ export default class Index extends React.Component<Props> {
               PGF is a living organism meaning it will evolve over time. Feel
               free to contribute by submitting a merge request in the{' '}
               <a href="https://github.com/ApploverSoftware/PGF">
-                <FontAwesomeIcon icon={faGitlab} />{' '}repository
+                <FontAwesomeIcon icon={faGithub} />{' '}repository
               </a>
               .
             </DescriptionText>
