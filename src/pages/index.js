@@ -2,7 +2,7 @@
 import * as React from 'react'
 import { graphql } from 'gatsby'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faGithub, faGitlab } from '@fortawesome/free-brands-svg-icons'
+import { faGithub } from '@fortawesome/free-brands-svg-icons'
 import Layout from '../components/layout'
 import {
   Subtitle,

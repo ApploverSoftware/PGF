@@ -19,6 +19,12 @@ topics:
           - Inspection of the work performed by the cleaning crew
           - Taking care of smooth flow of incoming mail, sending and controlling outgoing mail
           - Taking care of the circulation of confidential documents between the Board and the Administration, organizing documentation
+          - Work closely with Office Manager and Office Assistant
+          - Collecting invoices for purchases
+          - Office supplies purchase
+          - Purchase of food and coffee
+          - Purchase, prepare, and ship gifts for clients
+          - Store visit for special occasion shopping
           - Ad hoc tasks, which are unexpected and happen repeatedly. These are tasks that are often hard to assign to a specific department, so in most companies they remain in the role of Ofiice Manager
   - name: "Office Assistant"
     title: "Office Assistant"
